@@ -1,0 +1,5 @@
+@media only screen and (max-width: 600px) {
+    .text-center.bg-info.w-25.app.m-auto.mt-5.rounded.py-2.px-2 {
+        width: 300px !important;
+    }
+  }
